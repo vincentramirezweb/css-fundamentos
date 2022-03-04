@@ -1,28 +1,46 @@
-.master-container-cards{
+.container-buttons {
+    padding: 2rem;
     display: flex;
-    align-content: center;
-    align-items: center;
     gap: 1rem;
 }
 
-.margin-cards{
-   margin: auto;
+
+.btn-javier {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+.btn-light-primary {
+    color: #00c5ab;
+    background-color: #dcfffc
 }
 
-.simple-cards{
-    text-align: center;
+.btn-light-link {
+    color: #2961bb;
+    background-color: #e3ecff      
 }
 
-.simple-cards{
-   text-align: center;
+.btn-light-info {
+    color: #2d8dce;
+    background-color: #d6e9f8      
 }
 
-.container-simple-cards{
-     border-radius: 5px 5px 0 0
-   border-width: 1px;
+.btn-light-success {
+    color: #39995b;
+    background-color: #d8fde2      
 }
 
-.header-simple-cards{
-    background-color: gray;
-    margin: 20px;
+.btn-light-warning {
+    color: #ccaf3a;
+    background-color: #fff9d2      
+}
+
+.btn-light-danger {
+    color: #b9344f;
+    background-color: #ffc8d3      
 }
