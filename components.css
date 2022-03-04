@@ -1,0 +1,28 @@
+.master-container-cards{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.margin-cards{
+   margin: auto;
+}
+
+.simple-cards{
+    text-align: center;
+}
+
+.simple-cards{
+   text-align: center;
+}
+
+.container-simple-cards{
+     border-radius: 5px 5px 0 0
+   border-width: 1px;
+}
+
+.header-simple-cards{
+    background-color: gray;
+    margin: 20px;
+}
