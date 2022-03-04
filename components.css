@@ -1,0 +1,33 @@
+.btn-default {
+    border: none;
+    outline: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+.btn-while {
+    background-color: white;
+    color: black;
+}
+.btn-light{
+    background-color: rgba(173, 171, 171, 0.712);
+    color: black;
+}
+.btn-dark{
+    background-color: rgba(12, 11, 11, 0.911);
+    color: rgb(156, 152, 152);
+}
+.btn-black {
+    background-color: black;
+    color: white;
+}
+.btn-text {
+    background-color: transparent;
+    color: rgb(117, 116, 116);
+    text-decoration: underline;
+}
+.alexander {
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    gap: 20px;
+}
